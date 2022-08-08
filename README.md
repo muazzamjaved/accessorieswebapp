@@ -3,7 +3,7 @@
 Accessories App, with a frontend built in React & Redux and a backend built in Django API.
 ```
 Check out [FRONTEND LIVE DEMO](https://frontend-acce.herokuapp.com/) here!!
-Check out [API LIVE DEMO](https://backend-cool-tees.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://backend-acce.herokuapp.com/) here!!
 ## Tech used
 ```
 * Frontend : React & Redux
